@@ -1,0 +1,12 @@
+<?php
+
+//while loop
+$i=0;
+
+while($i<10)
+{
+    echo"<br/>$i";
+    $i++;
+}
+
+?>
